@@ -21,4 +21,4 @@ Tone: There are 2 sequences running in the background as the background music. W
 
 Video example: https://www.youtube.com/watch?v=TDoLrNYoPyM
 
-In the future, I would probably make more levels and add an instructions screen. I would add something on the screen that says the color that is selected. (note: I have added it for the documentation submission)
+In the future, I would probably make more levels and add an instructions screen. I would add something on the screen that says the color that is selected. (note: I have added it for the documentation submission: https://solothedolphin.github.io/PDM2025/FinalProject/)
